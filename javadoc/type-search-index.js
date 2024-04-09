@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"LudoServer"},{"p":"<Unnamed>","l":"MessengerClient"},{"p":"<Unnamed>","l":"MovementData"},{"p":"<Unnamed>","l":"RunGame"},{"p":"<Unnamed>","l":"SeaLudo"},{"p":"<Unnamed>","l":"SerializeMyClasses"},{"p":"<Unnamed>","l":"StartPanel"},{"p":"<Unnamed>","l":"users"}]
